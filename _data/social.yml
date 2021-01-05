@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:leonnon968@gmail.com
+  icon: fas fa-envelope
+# - title: Twitter
+#   url: https://twitter.com/sziv2p
+#   icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/leonnon968
+  icon: fab fa-github
