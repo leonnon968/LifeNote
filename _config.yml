@@ -1,7 +1,8 @@
 ---
 title: LifeNote 2.0
 tagline: Enregister la vie
-timezone: UTC
+timezone: Asia/Shanghai
+date_format: "%A %x %r %Z"
 collections:
   posts:
     title: Posts
