@@ -1,9 +1,10 @@
 ---
 layout: post
 title: New post will come in a new year
+toc: true
 ---
 
-# 写点新年要做的事，整理成清单，一点点做
+## 写点新年要做的事，整理成清单，一点点做
 
 ## 大方向
 
@@ -14,6 +15,6 @@ title: New post will come in a new year
 5. 总结通用习惯和要点
 6. 坚持记录和完善
 
-## Reference:
+## Reference
 
 [Tools I Use For Blogging](https://dev.to/bauripalash/tools-i-use-for-blogging-1h92)

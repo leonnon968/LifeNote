@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Traditional-iot
+toc: true
 ---
 
+## 一些实用想法
 一些可以凭借智能插座变成智能电器的传统家电(实现定时开关) 饮水机 电饭煲 电蒸锅
 
 &nbsp;

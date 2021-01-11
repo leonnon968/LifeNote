@@ -3,9 +3,10 @@ layout: post
 tags:
 categories:
 title: New year todo list
+toc: true
 ---
 
-# New&nbsp; year&nbsp; todo list
+## New&nbsp; year&nbsp; todo list
 
 关于网站的一些发展方向
 
